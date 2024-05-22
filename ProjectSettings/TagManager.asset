@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - FireRange
+  - Coin
+  - number_coin
+  - number_exp
+  - txt_Description
+  - txt_Quest
+  - goalPrefab
+  - goalsContent
+  - Gold
+  - Undefined
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - gold
+  - Charactor1
+  - Charactor2
+  - Charactor3
+  - Charactor4
+  - stone
+  - Trap
+  - TopLeftWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullet
+    uniqueID: 1458536877
+    locked: 0
+  - name: Character
+    uniqueID: 4099759777
+    locked: 0
+  - name: UI
+    uniqueID: 1650236243
+    locked: 0
